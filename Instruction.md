@@ -12,7 +12,12 @@
 
 ### Git add
 
-Для добавления измений в коммит используется команда *git add*. Чтобы использовать команду *git add* напишите *git add &lt;имя_файла&gt;*
+Для добавления измений в коммит используется команда *git add*. Чтобы использовать команду *git add* напишите:
+
+```text
+git add <имя_файла>
+```
+
 ***
 
 ### Просмотр состояния репозитория
@@ -44,3 +49,7 @@
 
 3. **Удаление веток**
 Для удаления ветки ввести команду *git branch -d &lt;name_branch&gt;*
+
+## Используемая информация
+
+ [***Статья на GitHub***](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
