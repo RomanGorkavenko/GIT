@@ -52,6 +52,12 @@ git add <имя_файла>
 3. **Удаление веток**
 Для удаления ветки ввести команду *git branch -d &lt;name_branch&gt;*
 
+4. git checkout -b имя_ветки
+
 ## Используемая информация
 
  [***Статья на GitHub***](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Перемещение между директориями
+
+mkdir рпрпоодлдожэодь
