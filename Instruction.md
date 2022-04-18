@@ -68,3 +68,13 @@ git add <имя_файла>
 ## Используемая информация
 
  [***Статья на GitHub***](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Перемещение курсора:
+
+Ctrl + a — переход в начало строки
+Ctrl + b — переход на 1 символ назад 
+Ctrl + c — посылает программе SIGINT. Обычно, прерывает текущее задание
+Ctrl + d — удаляет символ под курсором (аналог delete)
+Ctrl + e — переход к концу строки
+Ctrl + f — переход на 1 символ вперёд
+Ctrl + xx — переходит от текущей позиции курса в начало строки и обратно.
