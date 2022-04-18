@@ -69,31 +69,31 @@ git add <имя_файла>
 
  [***Статья на GitHub***](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Перемещение курсора
+## jhkjhkjkjbkjbkjbkjbkjbkjbkjb
 
-Ctrl + a — переход в начало строки
-Ctrl + b — переход на 1 символ назад
-Ctrl + c — посылает программе SIGINT. Обычно, прерывает текущее задание
-Ctrl + d — удаляет символ под курсором (аналог delete)
-Ctrl + e — переход к концу строки
-Ctrl + f — переход на 1 символ вперёд
-Ctrl + xx — переходит от текущей позиции курса в начало строки и обратно. 
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb 
 
-Ctrl + p — Предыдущая команда (Стрелка вверх)
-Ctrl + n — Следующая команда (Стрелка вниз)
-Alt + b — Переместить курсор на одно слово назад (влево)
-Alt + f — Переместить курсор на одно слово вперед (вправо)
-Ctrl + b — Переместить курсор на один символ назад (влево)
-Ctrl + f — Переместить курсор на один символ вперед (вправо)
-Ctrl + xx — Переключение между началом строки и текущей позиции курсора
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
 
-Ctrl + a — переход в начало строки
-Ctrl + b — переход на 1 символ назад 
-Ctrl + c — посылает программе SIGINT. Обычно, прерывает текущее задание
-Ctrl + d — удаляет символ под курсором (аналог delete)
-Ctrl + e — переход к концу строки
-Ctrl + f — переход на 1 символ вперёд
-Ctrl + xx — переходит от текущей позиции курса в начало строки и обратно.
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
+jhkjhkjkjbkjbkjbkjbkjbkjbkjb
 
 ## Редактирование
 
